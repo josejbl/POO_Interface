@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\POO_Iterface\bin\Debug\netcoreapp3.1\POO_Iterface.exe
+C:\Users\dev\Desktop\POO_Iterface\bin\Debug\netcoreapp3.1\POO_Iterface.deps.json
+C:\Users\dev\Desktop\POO_Iterface\bin\Debug\netcoreapp3.1\POO_Iterface.runtimeconfig.json
+C:\Users\dev\Desktop\POO_Iterface\bin\Debug\netcoreapp3.1\POO_Iterface.runtimeconfig.dev.json
+C:\Users\dev\Desktop\POO_Iterface\bin\Debug\netcoreapp3.1\POO_Iterface.dll
+C:\Users\dev\Desktop\POO_Iterface\bin\Debug\netcoreapp3.1\POO_Iterface.pdb
+C:\Users\dev\Desktop\POO_Iterface\obj\Debug\netcoreapp3.1\POO_Iterface.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\POO_Iterface\obj\Debug\netcoreapp3.1\POO_Iterface.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\POO_Iterface\obj\Debug\netcoreapp3.1\POO_Iterface.AssemblyInfo.cs
+C:\Users\dev\Desktop\POO_Iterface\obj\Debug\netcoreapp3.1\POO_Iterface.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\POO_Iterface\obj\Debug\netcoreapp3.1\POO_Iterface.dll
+C:\Users\dev\Desktop\POO_Iterface\obj\Debug\netcoreapp3.1\POO_Iterface.pdb
+C:\Users\dev\Desktop\POO_Iterface\obj\Debug\netcoreapp3.1\POO_Iterface.genruntimeconfig.cache
